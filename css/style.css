@@ -194,6 +194,9 @@ footer> h1 {
 .container-fluid {
     padding:0;
 }
+.image-modal {
+    text-align: center;
+}
 #favorite-sites > .row > .col-md-3 > img{ 
     margin:0 auto;    
 }
